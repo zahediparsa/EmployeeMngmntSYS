@@ -1,0 +1,3 @@
+C:/Users/Parsa/CLionProjects/EmployeeManagmentSYS/cmake-build-debug/CMakeFiles/EmployeeManagmentSYS.dir
+C:/Users/Parsa/CLionProjects/EmployeeManagmentSYS/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Parsa/CLionProjects/EmployeeManagmentSYS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
